@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/jiekou/CallService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/jiekou/NetService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/jiekou/SendService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/taocan/NetPackage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/taocan/SuperPackage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/taocan/TalkPackage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/嗖嗖移动大厅/CardUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/嗖嗖移动大厅/Common.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/嗖嗖移动大厅/ConsumInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/嗖嗖移动大厅/MobileCard.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/嗖嗖移动大厅/Scene.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/嗖嗖移动大厅/SosoMgr.java" charset="GBK" />
+  </component>
+</project>
